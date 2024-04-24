@@ -1,0 +1,6 @@
+@SA4SC.External.API_HostAddress = http://localhost:5098
+
+GET {{SA4SC.External.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
